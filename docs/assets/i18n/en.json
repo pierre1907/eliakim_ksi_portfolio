@@ -1,0 +1,154 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "cv_saint_pierre_kassi_en.pdf",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I have <span class='underline'>4 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I specialize in writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and occasionally in <span class='underline'>Laravel</span>, applying good development practices and standards.",
+  "Banner.ActionBtn": "Say Hello",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "In my <span class='underline'>4 years as a developer</span>, I seek to learn every day. At the same time, I have worked writing <span class='underline'>unit tests</span>, implementing <span class='underline'>continuous integration</span>.",
+    "My skills also include implementing improvements in systems, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+    "Some of the technologies I have trained and worked with include (but are not limited to):"
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Agile Way",
+      "Title": "Study and Development Engineer",
+      "Date": "December 2022 - January 2024",
+      "Description": [
+        "Writing technical specifications",
+        "Participating in estimating expenses necessary for developing features",
+        "Front-end interface and business services development",
+        "Writing unit test logs and technical procedures",
+        "Executing unit tests with PV delivery",
+        "Technical support for the testing team"
+      ]
+    },
+    {
+      "Tab": "Agile Way",
+      "Title": "Study and Development Engineering Internship",
+      "Date": "May 2022 - November 2022",
+      "Description": [
+        "Writing technical specifications",
+        "Participating in estimating expenses necessary for developing features",
+        "Front-end interface and business services development",
+        "Writing unit test logs and technical procedures",
+        "Executing unit tests with PV delivery",
+        "Technical support for the testing team"
+      ]
+    },
+    {
+      "Tab": "AMEESIS",
+      "Title": "Communication and Social Officer",
+      "Date": "May 2022 - Present",
+      "Description": [
+        "Developing a communication strategy",
+        "Social media management",
+        "Creating visuals",
+        "Organizing social and cultural events",
+        "Conflict management and mediation",
+        "Promoting inclusion and diversity",
+        "Collaborating with other organizations and services",
+        "Supporting and assisting members"
+      ]
+    },
+    {
+      "Tab": "Wanda IO",
+      "Title": "Tester and Logistics Assistant",
+      "Date": "January 2021 - May 2022",
+      "Description": [
+        "Test planning",
+        "Execution of test cases",
+        "Performance testing",
+        "Anomaly reporting",
+        "Coordination with the development team",
+        "Inventory management",
+        "Delivery coordination",
+        "Return management",
+        "Supplier management",
+        "Delivery tracking"
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "My Projects",
+  "FeatureProjects.Label": "Featured Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "SAMAPME",
+      "Description": "Monitoring application created from scratch with authentication module, <span class='underline'>charts</span>, <span class='underline'>mailing</span>, and <span class='underline'>user management</span>. It also has reactive form logic for request management.",
+      "imgs": [
+        "assets/images/samapme/samapme1.png",
+        "assets/images/samapme/samapme2.png",
+        "assets/images/samapme/samapme3.png",
+        "assets/images/samapme/samapme4.png",
+        "assets/images/samapme/samapme5.png",
+        "assets/images/samapme/samapme6.png",
+        "assets/images/samapme/samapme7.png"
+      ],
+      "Technologies": ["Angular", "Angular Material"]
+    },
+    {
+      "Title": "Id-Bio",
+      "Description": "Implementation of a biogas production management application",
+      "imgs": [
+        "assets/images/idbio/idbio1.png",
+        "assets/images/idbio/idbio2.png",
+        "assets/images/idbio/idbio3.png",
+        "assets/images/idbio/idbio4.png",
+        "assets/images/idbio/idbio5.png",
+        "assets/images/idbio/idbio6.png",
+        "assets/images/idbio/idbio7.png",
+        "assets/images/idbio/idbio8.png"
+      ],
+      "Technologies": ["Angular", "Angular Material"]
+    }
+  ],
+
+  "OtherProjects.Title": "Other Projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Brazil Burger (Manager)",
+      "Description": "E-commerce management web application for Brazil Burger restaurant",
+      "ghLink": "https://github.com/pierre1907/Brazil_Burger_gestionnaire",
+      "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+    },
+    {
+      "Title": "Brazil Burger (Client)",
+      "Description": "Mobile e-commerce application for Brazil Burger restaurant",
+      "ghLink": "https://github.com/pierre1907/brazil_burger_client",
+      "Technologies": ["Flutter", "Dart"]
+    },
+    {
+      "Title": "School Management",
+      "Description": "School management web application",
+      "ghLink": "https://github.com/pierre1907/school_management",
+      "Technologies": ["Laravel", "php", "inertia"]
+    },
+    {
+      "Title": "Generate password",
+      "Description": "Complex password generator program",
+      "ghLink": "https://github.com/pierre1907/password_generator/tree/master",
+      "Technologies": ["Python"]
+    },
+    {
+      "Title": "Netflix Clone",
+      "Description": "Netflix clone mobile application",
+      "ghLink": "https://github.com/pierre1907/Netflix_clone",
+      "Technologies": ["Flutter", "Dart"]
+    }
+  ],
+
+  "Contact.Pretitle": "And now?",
+  "Contact.Title": "Say Hello!",
+  "Contact.Content": "I'll be happy to receive your message if you want to discuss new opportunities. Write to me, and I'll reply as soon as I see your message.",
+  "Contact.Btn": "Contact Me!"
+}
