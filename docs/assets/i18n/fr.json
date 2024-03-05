@@ -7,7 +7,7 @@
     "Header.cvName": "cv_saint_pierre_kassi_fr.pdf",
 
     "Banner.Pretitle": "Bonjour ! Je m'appelle",
-    "Banner.Description": "J'ai <span class='underline'>4 ans d'expérience</span> dans le développement de systèmes, d'interfaces, de bots et de solutions technologiques pour rendre le web meilleur. Je me consacre à écrire et à refactoriser du code propre, réutilisable et évolutif en <span class='underline'>Angular</span> et parfois en <span class='underline'>Laravel</span>, en appliquant de bonnes pratiques et des normes de développement.",
+    "Banner.Description": "J'ai <span class='underline'>3 ans d'expérience</span> dans le développement de systèmes, d'interfaces, de bots et de solutions technologiques pour rendre le web meilleur. Je me consacre à écrire et à refactoriser du code propre, réutilisable et évolutif en <span class='underline'>Angular</span> et parfois en <span class='underline'>Laravel</span>, en appliquant de bonnes pratiques et des normes de développement.",
     "Banner.ActionBtn": "Dites bonjour",
 
     "AboutMe.Title": "À propos de moi",
@@ -19,20 +19,19 @@
 
 
     "Experience.Title": "Expérience",
-    "Experience.Jobs": [
-        {
-          "Tab": "Agile Way",
-          "Title": "Ingénieur d'étude et de développement",
-          "Date": "Decembre 2022 - Janvier 2024",
-          "Description": [
+    "Experience.Jobs": [{
+            "Tab": "Agile Way",
+            "Title": "Ingénieur d'étude et de développement",
+            "Date": "Decembre 2022 - Janvier 2024",
+            "Description": [
 
-            "Rédaction de spécifications techniques",
-            "Participer à l'estimation des dépenses nécessaires au développement des fonctionnalités",
-            "Développement de l'interface front-end et des services métiers",
-            "Rédaction de cahiers de tests unitaires et de procédures techniques",
-            "Exécution de tests unitaires avec livraison PV",
-            "Support technique de l'équipe recettes"
-          ]
+                "Rédaction de spécifications techniques",
+                "Participer à l'estimation des dépenses nécessaires au développement des fonctionnalités",
+                "Développement de l'interface front-end et des services métiers",
+                "Rédaction de cahiers de tests unitaires et de procédures techniques",
+                "Exécution de tests unitaires avec livraison PV",
+                "Support technique de l'équipe recettes"
+            ]
         },
         {
             "Tab": "Agile Way",
@@ -40,12 +39,12 @@
             "Date": "Mai 2022 - Novembre 2022",
             "Description": [
 
-              "Rédaction de spécifications techniques",
-              "Participer à l'estimation des dépenses nécessaires au développement des fonctionnalités",
-              "Développement de l'interface front-end et des services métiers",
-              "Rédaction de cahiers de tests unitaires et de procédures techniques",
-              "Exécution de tests unitaires avec livraison PV",
-              "Support technique de l'équipe recettes"
+                "Rédaction de spécifications techniques",
+                "Participer à l'estimation des dépenses nécessaires au développement des fonctionnalités",
+                "Développement de l'interface front-end et des services métiers",
+                "Rédaction de cahiers de tests unitaires et de procédures techniques",
+                "Exécution de tests unitaires avec livraison PV",
+                "Support technique de l'équipe recettes"
             ]
         },
         {
@@ -53,66 +52,65 @@
             "Title": "Chargé de communication et du social",
             "Date": "Mai 2022 - Aujourd'hui",
             "Description": [
-              "Élaborer une stratégie de communication",
-              "Gestion des médias sociaux",
-              "Création de visuels",
-              "Organisation d’événements sociaux et culturels",
-              "Gestion des conflits et médiation",
-              "Promotion de l’inclusion et de la diversité",
-              "Collaboration avec d’autres organismes et services",
-              "Soutien et assistance aux membres"
+                "Élaborer une stratégie de communication",
+                "Gestion des médias sociaux",
+                "Création de visuels",
+                "Organisation d’événements sociaux et culturels",
+                "Gestion des conflits et médiation",
+                "Promotion de l’inclusion et de la diversité",
+                "Collaboration avec d’autres organismes et services",
+                "Soutien et assistance aux membres"
             ]
         },
         {
-          "Tab": "Wanda IO",
-          "Title": "Testeur et adjoint logistique",
-          "Date": "Janvier 2021 - Mai 2022",
-          "Description": [
-            "Planification des tests",
-            "Exécutions des cas de test",
-            "Tests de performance",
-            "Rapport d’anomalies",
-            "Coordination avec l’équipe de developpement",
-            "Gestion des stocks",
-            "Coordination des livraisons",
-            "Gestion des retours",
-            "Gestion des fournisseurs",
-            "Suivi des livraisons"
-          ]
+            "Tab": "Wanda IO",
+            "Title": "Testeur et adjoint logistique",
+            "Date": "Janvier 2021 - Mai 2022",
+            "Description": [
+                "Planification des tests",
+                "Exécutions des cas de test",
+                "Tests de performance",
+                "Rapport d’anomalies",
+                "Coordination avec l’équipe de developpement",
+                "Gestion des stocks",
+                "Coordination des livraisons",
+                "Gestion des retours",
+                "Gestion des fournisseurs",
+                "Suivi des livraisons"
+            ]
         }
     ],
 
     "FeatureProjects.Title": "Mes projets",
     "FeatureProjects.Label": "Projet En Vedette",
-    "FeatureProjects.Projects": [
-        {
+    "FeatureProjects.Projects": [{
             "Title": "SAMAPME",
             "Description": "Application de monitoring réalisée à partir de zéro avec module d'authentification, <span class='underline'>graphiques </span>, <span class='underline'>mailing</span> et <span class='underline'>gestion des utilisateurs</span>. Elle dispose également d'une logique de formulaires réactifs pour la gestion des demandes.",
             "imgs": [
-              "assets/images/samapme/samapme1.png",
-              "assets/images/samapme/samapme2.png",
-              "assets/images/samapme/samapme3.png",
-              "assets/images/samapme/samapme4.png",
-              "assets/images/samapme/samapme5.png",
-              "assets/images/samapme/samapme6.png",
-              "assets/images/samapme/samapme7.png"
+                "assets/images/samapme/samapme1.png",
+                "assets/images/samapme/samapme2.png",
+                "assets/images/samapme/samapme3.png",
+                "assets/images/samapme/samapme4.png",
+                "assets/images/samapme/samapme5.png",
+                "assets/images/samapme/samapme6.png",
+                "assets/images/samapme/samapme7.png"
             ],
             "Technologies": ["Angular", "Angular Material"]
         },
         {
-          "Title": "Id-Bio",
-          "Description": "Mise en place d'une application de gestion de la production des bio digesteur",
-          "imgs": [
-            "assets/images/idbio/idbio1.png",
-            "assets/images/idbio/idbio2.png",
-            "assets/images/idbio/idbio3.png",
-            "assets/images/idbio/idbio4.png",
-            "assets/images/idbio/idbio5.png",
-            "assets/images/idbio/idbio6.png",
-            "assets/images/idbio/idbio7.png",
-            "assets/images/idbio/idbio8.png"
-          ],
-          "Technologies": ["Angular", "Angular Material"]
+            "Title": "Id-Bio",
+            "Description": "Mise en place d'une application de gestion de la production des bio digesteur",
+            "imgs": [
+                "assets/images/idbio/idbio1.png",
+                "assets/images/idbio/idbio2.png",
+                "assets/images/idbio/idbio3.png",
+                "assets/images/idbio/idbio4.png",
+                "assets/images/idbio/idbio5.png",
+                "assets/images/idbio/idbio6.png",
+                "assets/images/idbio/idbio7.png",
+                "assets/images/idbio/idbio8.png"
+            ],
+            "Technologies": ["Angular", "Angular Material"]
         }
     ],
 
@@ -124,16 +122,16 @@
             "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
         },
         {
-          "Title": "Brazil Burger ( Client)",
+            "Title": "Brazil Burger ( Client)",
             "Description": "Application mobile de e-commerce pour le restaurant Brazil Burger ",
             "ghLink": "https://github.com/pierre1907/brazil_burger_client",
             "Technologies": ["Flutter", "Dart"]
         },
         {
-          "Title": "School Management ",
-          "Description": "Application web de gestion pour ecole ",
-          "ghLink": "https://github.com/pierre1907/school_management",
-          "Technologies": ["Laravel", "php", "inertia"]
+            "Title": "School Management ",
+            "Description": "Application web de gestion pour ecole ",
+            "ghLink": "https://github.com/pierre1907/school_management",
+            "Technologies": ["Laravel", "php", "inertia"]
         },
         {
             "Title": "Generate password",
@@ -141,12 +139,12 @@
             "ghLink": "https://github.com/pierre1907/password_generator/tree/master",
             "Technologies": ["Python"]
         },
-      {
-        "Title": "Netflix Clone",
-        "Description": "Application mobile clone de netflix",
-        "ghLink": "https://github.com/pierre1907/Netflix_clone",
-        "Technologies": ["Flutter", "Dart"]
-      }
+        {
+            "Title": "Netflix Clone",
+            "Description": "Application mobile clone de netflix",
+            "ghLink": "https://github.com/pierre1907/Netflix_clone",
+            "Technologies": ["Flutter", "Dart"]
+        }
     ],
 
     "Contact.Pretitle": "Et maintenant ?",
