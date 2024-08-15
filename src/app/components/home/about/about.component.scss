@@ -40,6 +40,15 @@
         list-style: none;
     }
 
+    .skills-list-formation{
+        display: flex;
+        grid-template-columns: repeat(2,minmax(140px,200px));
+        overflow: hidden;
+        padding: 0;
+        margin: 20px 0 0 0;
+        list-style: none;
+    }
+
     .skill-element{
         position: relative;
         margin-bottom: 10px;

@@ -12,11 +12,22 @@
 
     "AboutMe.Title": "À propos de moi",
     "AboutMe.Paragraphs": [
-        "En 4 ans en tant que développeur, je cherche à me former chaque jour. En même temps, j'ai travaillé en écrivant des <span class='underline'>tests unitaires</span>, en mettant en œuvre une <span class='underline'>intégration continue</span>.",
+        "En 3 ans en tant que développeur, je cherche à me former chaque jour. En même temps, j'ai travaillé en écrivant des <span class='underline'>tests unitaires</span>, en mettant en œuvre une <span class='underline'>intégration continue</span>.",
         "Mes compétences incluent également la mise en œuvre d'améliorations dans les systèmes, l'optimisation des sites, la normalisation des modèles et la proposition et l'exécution d'idées qui ajoutent de la valeur au projet sur lequel je travaille.",
-        "Certaines des technologies sur lesquelles je me suis formé et avec lesquelles j'ai travaillé incluent (mais ne se limitent pas à) :"
+        "Certaines des technologies sur lesquelles je me suis formé et avec lesquelles j'ai travaillé incluent (mais pas que) :"
     ],
 
+
+
+    "AboutMe.FormationsTitle": [
+        "En ce qui concerne ma formation, j'ai obtenu au Groupe Ism :"
+    ],
+
+
+    "AboutMe.FormationsDetails": [
+        "Licence en Informatique option Génie Logiciel Réseaux et Systèmes",
+        "MBA en Informatique option Concepteur Développeur de Solutions Digitales"
+    ],
 
     "Experience.Title": "Expérience",
     "Experience.Jobs": [{
